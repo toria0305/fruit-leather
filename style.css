@@ -1,4 +1,61 @@
 body {
     background: white;
-    color: rgb(206, 59, 108);
+    color: rgb(43, 6, 19);
+
   }
+
+  h1 {
+    color: rgb(207, 60, 109);
+    font-family: monospace;
+    font-weight:600;
+    font-style: italic;
+    font-size: 60px; 
+    text-align: center;
+     }
+ 
+  #intro {
+    color: white;
+    font-family: monospace;
+    font-size: x-large;
+    background-color: coral;
+    text-align: center;
+     }
+
+ .girlscry {
+    position: relative;
+    float: left;
+    width: 33.33%;
+    padding: 40px;
+    text-align: center;
+ }
+ .smile {
+    position: relative;
+    float: left;
+    width: 33.33%;
+    padding: 40px;
+    text-align: center;
+    
+ }
+
+ .clouds {
+    position: relative;
+    float: left;
+    width: 33.33%;
+    padding: 40px;
+    text-align: center;
+ }
+
+ .loverug {
+    position: relative;
+    float: left;
+    width: 33.33%;
+    padding: 40px;
+    text-align: center;
+ }
+
+ h3 {
+    font-family: 'Times New Roman', Times, serif;
+    position: bottom absolute;
+    background-color: white;
+    color:rgb(207, 60, 109);
+ }
